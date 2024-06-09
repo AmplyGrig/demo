@@ -1,0 +1,7 @@
+{
+"url": "https://demo/",
+"name": "Demo",
+"iconUrl": "https://demo.png",
+"termsOfUseUrl": "https://terms-of-use.txt",
+"privacyPolicyUrl": "https://privacy-policy.txt"
+}
